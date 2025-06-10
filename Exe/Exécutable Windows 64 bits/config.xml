@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WinDev_Param>
+  <FEN_Paramètres>
+    <Checksum>1079151369</Checksum>
+    <TimeStamp>20250528155540043</TimeStamp>
+    <MaximiseeOuverture>0</MaximiseeOuverture>
+    <PositionOuverture>475,446,0</PositionOuverture>
+    <InfoParent>FEN_PosDemo,-1,-1</InfoParent>
+    <TailleOuverture>953,149,96</TailleOuverture>
+    <DeltaLayout>0,0,96</DeltaLayout>
+  </FEN_Paramètres>
+  <FEN_PosDemo>
+    <Checksum>694660211</Checksum>
+    <TimeStamp>20250528155541437</TimeStamp>
+    <MaximiseeOuverture>1</MaximiseeOuverture>
+    <PositionOuverture>0,0,1</PositionOuverture>
+    <TailleOuverture>1917,1070,96</TailleOuverture>
+    <DeltaLayout>0,0,96</DeltaLayout>
+  </FEN_PosDemo>
+  <Localisation>Europe</Localisation>
+</WinDev_Param>

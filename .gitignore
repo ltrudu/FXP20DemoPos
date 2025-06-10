@@ -1,0 +1,40 @@
+# .gitignore for WINDEV, WEBDEV and WINDEV Mobile projects
+#
+# WINDEV – WEBDEV – WINDEV Mobile
+Backup
+Bin
+cache.gestion de sources
+Corbeille
+Groupware
+Lastsave
+Sauvegarde
+.tmp
+*.cache
+*.cpl
+*.env
+*.rep
+*.waudit
+*.wdcoverage
+*.wpf
+HstDuree.log
+#
+#WEBDEV
+*\res
+*.awl
+*.awp
+#
+# WINDEV Mobile 
+android
+*.xcode.gen
+Exe/FXP20DemoPOS.exe
+Exe/Application Android/FXP20DemoPOS.7z
+Exe/Application Android/FXP20DemoPOS.exe
+Exe/Exécutable Windows 64 bits/FXP20DemoPOS.exe
+Exe/pos.mp4
+Exe/produit.fic
+Exe/produit.mmo
+Exe/produit.ndx
+Exe/Application Android/pos.mp4
+Exe/Application Android/produit.fic
+Exe/Application Android/produit.mmo
+Exe/Application Android/produit.ndx
