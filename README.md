@@ -8,7 +8,7 @@ To run this demo, you'll need a MQTT Broker and the FXP20KeyInjector software.
 You can download the FXP20KeyInjector software at this repository :
 https://github.com/ltrudu/FXP20KeyInjector_Releases
 
-Please, before using the demo, read the [FXP20KeyInjector documentation](https://github.com/ltrudu/FXP20KeyInjector_Releases/blob/master/FXP20KeyInjector-HowTo.docx)
+Please, before using the demo, read the [FXP20KeyInjector documentation](https://github.com/ltrudu/FXP20KeyInjector_Releases/blob/master/FXP20KeyInjector-HowTo.docx?raw=true)
 
 The FXP20KeyInjector documentation contains everything necessary to setup the MQTT architecture.
 
