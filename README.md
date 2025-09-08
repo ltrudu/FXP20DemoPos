@@ -1,5 +1,12 @@
 *Please be aware that this library / application / sample is provided as a community project without any guarantee of support*
 =========================================================
+
+*This demo shows how a FXP20 can improve the Point Of Sale experience by detecting automatically the content of a basket and providing the total price of it.*
+
+This demo runs on Windows.
+
+=========================================================
+
 ## This demo is not officially supported by Zebra if you have any issues, use the Issues tab of this repository.
 ## As it is a personnal initiative, I'll do my best to fix issues, but I can not ensure that it will be done quickly.
 
