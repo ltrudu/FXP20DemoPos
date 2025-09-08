@@ -16,6 +16,8 @@ Once you've read the documentation and setup the MQTT architecture, read the [FX
 
 In the demo documentation you'll find the pre-requisites and the configuration requested to run the demo.
 
+You can download the demo in the [releases page](https://github.com/ltrudu/FXP20DemoPos/releases)
+
 This demo is released under the [Zebra EULA](https://github.com/ltrudu/FXP20KeyInjector_Releases/blob/master/EULA.txt)
 
 Please, take the time to read the EULA before using this demo.
