@@ -1383,13 +1383,14 @@ window :
       	// Abonnement aux topics EPC
       	MQTT_Abonner("FXP20/EPC")
       	// Connexion au reader
-      	FXP20_Connexion()
+      	// On ne gère plus la connexion ou deconnexion ici, car FXP20KeyInjector est configuré pour s'auto-connecter
+      	// FXP20_Connexion()
       SINON
       	gbConnecté = Faux
       FIN
       
       MQTT_Watcher()
-      	
+      
       
       SI EnModeWindows() ALORS
       fichierVideo est une chaîne = fRepExe() + "\pos.mp4"
@@ -1409,7 +1410,8 @@ window :
      enabled : false
    -
      code : |1+
-      FXP20_Déconnexion()
+      // On ne gère plus la connexion ou deconnexion ici, car FXP20KeyInjector est configuré pour s'auto-connecter
+      // FXP20_Déconnexion()
      type : 2
   procedures :
    -
@@ -1789,7 +1791,8 @@ window :
       		// Abonnement aux topics EPC
       		MQTT_Abonner("FXP20/EPC")
       		// Connexion au reader
-      		FXP20_Connexion()
+      		// On ne gère plus la connexion ou deconnexion ici, car FXP20KeyInjector est configuré pour s'auto-connecter
+      		// FXP20_Connexion()
       	SINON
       		gbConnecté = Faux
       	FIN
