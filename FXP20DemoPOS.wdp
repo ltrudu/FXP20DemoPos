@@ -21,8 +21,8 @@ project :
     generation_name : FXP20DemoPOS.exe
     version :
      major_version : 1
-     generation_version : 27
-     internal_generation_version : 28
+     generation_version : 28
+     internal_generation_version : 29
      autoincrement_version : false
     language : 1
     64bits : true

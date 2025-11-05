@@ -1391,9 +1391,11 @@ window :
       
       MQTT_Watcher()
       
+      // Créer un fichier compatible
+      // ffmpeg -i video_.mp4 -q:a 2 -q:v 2 -vcodec msmpeg4 -acodec wmav2 video.wmv
       
       SI EnModeWindows() ALORS
-      fichierVideo est une chaîne = fRepExe() + "\pos.mp4"
+      fichierVideo est une chaîne = fRepExe() + "\video.wmv"
       SI MultimédiaOuvre(MM_SansNom1,fichierVideo) <> Vrai ALORS
       	AfficheInfo("Could not open video:" + ErreurInfo())
       FIN
