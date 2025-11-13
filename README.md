@@ -10,6 +10,8 @@ This demo runs on Windows.
 ## This demo is not officially supported by Zebra if you have any issues, use the Issues tab of this repository.
 ## As it is a personnal initiative, I'll do my best to fix issues, but I can not ensure that it will be done quickly.
 
+[Video of the demo](https://www.linkedin.com/posts/zebra-technologies_revolutionising-checkout-with-zebras-fxp20-activity-7335878102759231488-134I?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAAHnaRIBxAcMb9uBqm6m41zC8cKgbwdrris&utm_campaign=copy_link)
+
 To run this demo, you'll need a MQTT Broker and the FXP20KeyInjector software.
 
 You can download the FXP20KeyInjector software at this repository :
