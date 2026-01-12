@@ -2,7 +2,7 @@
 <WinDev_Param>
   <FEN_Paramètres>
     <Checksum>1079151369</Checksum>
-    <TimeStamp>20251030102619558</TimeStamp>
+    <TimeStamp>20260112115019079</TimeStamp>
     <MaximiseeOuverture>0</MaximiseeOuverture>
     <PositionOuverture>475,446,0</PositionOuverture>
     <InfoParent>FEN_PosDemo,-1,-1</InfoParent>
@@ -11,7 +11,7 @@
   </FEN_Paramètres>
   <FEN_PosDemo>
     <Checksum>694660211</Checksum>
-    <TimeStamp>20251105135312582</TimeStamp>
+    <TimeStamp>20260112120045869</TimeStamp>
     <MaximiseeOuverture>1</MaximiseeOuverture>
     <PositionOuverture>0,0,1</PositionOuverture>
     <TailleOuverture>1917,1070,96</TailleOuverture>
@@ -20,7 +20,7 @@
   <Localisation>Europe</Localisation>
   <WD_AfficheException>
     <Checksum>1126929739</Checksum>
-    <TimeStamp>20251105135217348</TimeStamp>
+    <TimeStamp>20251204102544725</TimeStamp>
     <MaximiseeOuverture>0</MaximiseeOuverture>
     <PositionOuverture>623,371,1</PositionOuverture>
     <TailleOuverture>658,298,96</TailleOuverture>
